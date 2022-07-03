@@ -1,1 +1,1 @@
-# gallety-site
+# gallery-site
